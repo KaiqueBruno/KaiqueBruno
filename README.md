@@ -18,7 +18,9 @@
   <img align="right" alt="gif garotinha" src="https://i.picasion.com/pic92/2ba952231284fbe5698d5950d5a77acf.gif" width="100" height="100" border="0" alt="https://picasion.com/" >
 <div/> 
 <hr>
-   
+<div>
+  <a href="https://www.instagram.com/kaiquebruno___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div/>   
 <hr>
 
 ![Sanke animation](https://github.com/KaiqueBruno)
