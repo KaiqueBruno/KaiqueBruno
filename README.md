@@ -16,6 +16,7 @@
   <img align="center" alt="kaique-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
   <img align="center" alt="kaique-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
   <img align="right" alt="gif garotinha" src="https://i.picasion.com/pic92/2ba952231284fbe5698d5950d5a77acf.gif" width="100" height="100" border="0" alt="https://picasion.com/" >
-  <hr>
 <div/> 
+<hr>
+   
 <hr>
