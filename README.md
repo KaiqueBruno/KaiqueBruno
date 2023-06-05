@@ -23,4 +23,4 @@
 <div/>   
 <hr>
 
-![Sanke animation](https://github.com/KaiqueBruno)
+![Snake animation](https://github.com/KaiqueBruno)
