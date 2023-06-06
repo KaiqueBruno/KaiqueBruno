@@ -23,3 +23,4 @@
 <div/>   
 <hr>
 
+![Snake animation](https://github.com/KaiqueBruno/KaiqueBruno/blob/output/github-contribution-grid-snake.svg)
